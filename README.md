@@ -1,2 +1,2 @@
 # CS691
-This repository tracks the progress of Noam, Mohan, Gaurav, Ileana, and Griffin in completing their Masters Capstone Project
+This repository tracks the progress of Xi Zhu in completing his Masters Capstone Project
